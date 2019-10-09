@@ -11,6 +11,8 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/szyb/Computus</PackageProjectUrl>
     <RepositoryUrl>https://github.com/szyb/Computus</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <NeutralLanguage></NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
