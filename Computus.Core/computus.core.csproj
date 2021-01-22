@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.0</TargetFramework>
+    <TargetFrameworks>netstandard1.0;net40</TargetFrameworks>
     <AssemblyName>Szyb.Computus</AssemblyName>
     <RootNamespace>Szyb.Computus.Core</RootNamespace>
     <Authors>Szymon Bełus</Authors>
@@ -11,8 +11,11 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/szyb/Computus</PackageProjectUrl>
     <RepositoryUrl>https://github.com/szyb/Computus</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.1.0</Version>
     <NeutralLanguage></NeutralLanguage>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
